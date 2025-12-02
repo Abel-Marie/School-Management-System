@@ -1,3 +1,5 @@
-google-adk
 google-genai
+mcp
+google-adk
 python-dotenv
+tenacity
